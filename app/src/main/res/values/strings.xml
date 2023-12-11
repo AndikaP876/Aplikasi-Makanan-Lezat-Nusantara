@@ -1,0 +1,196 @@
+<resources>
+    <string name="app_name">Makanan Lezat Nusantara</string>
+    <string name="foods_name">nama makanan</string>
+    <string name="description">deskripsi</string>
+    <string name="detail_foods_name">nama makanan</string>
+    <string name="detail_foods_description">deskripsi</string>
+    <string name="about">about</string>
+    <string name="about_name">Andika Prasetya</string>
+    <string name="about_email">andikaprasetya876@gmail.com</string>
+    <string name="detail_historical_title">Sejarah</string>
+    <string name="detail_historical_description">deskrirpsi sejarah</string>
+
+    <string-array name="data_name">
+        <item>Rendang</item>
+        <item>Nasi Goreng</item>
+        <item>Soto</item>
+        <item>Sate</item>
+        <item>Gudeg</item>
+        <item>Nasi Padang</item>
+        <item>Ayam Betutu</item>
+        <item>Nasi Uduk</item>
+        <item>Gado-Gado</item>
+        <item>Rujak</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rendang (Minangkabau: randang; Jawi: رندڠ) adalah hidangan berbahan dasar daging yang dihasilkan dari proses memasak suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna cokelat terang keemasan.\n
+            \n
+            Rendang dapat dijumpai di Rumah Makan Padang di seluruh dunia. Masakan ini populer di Indonesia dan negara-negara Asia Tenggara lainnya, seperti Malaysia, Singapura, Brunei, Filipina, dan Thailand. Di daerah asalnya, Minangkabau, rendang disajikan di berbagai upacara adat dan perhelatan istimewa. Meskipun rendang merupakan masakan tradisional Minangkabau, teknik memasak serta pilihan dan penggunaan bumbu rendang berbeda-beda menurut daerah.\n
+            \n
+            Pada 2011, rendang pernah dinobatkan sebagai hidangan yang menduduki peringkat pertama daftar World"'"s 50 Most Delicious Foods (50 Hidangan Terlezat Dunia) versi CNN International. Pada 2018, rendang secara resmi ditetapkan sebagai salah satu dari lima hidangan nasional Indonesia.\n
+            \n
+            Rendang dimanfaatkan sebagai bantuan pangan bagi korban bencana alam karena tahan lama dan kandungan gizinya, seperti pada gempa bumi Lombok 2018, gempa bumi dan tsunami Sulawesi 2018, banjir Bengkulu 2019, badai Siklon Seroja 2021, dan gempa bumi Cianjur 2022.\n
+            \n
+            Bumbu rendang diolah secara fusion (mencampur) dengan makanan lain seperti spageti, mi, burger, hingga susyi.</item>
+        <item>Nasi goreng merupakan sajian nasi yang digoreng dalam sebuah wajan atau penggorengan yang menghasilkan cita rasa berbeda karena dicampur dengan bumbu-bumbu seperti garam, bawang putih, bawang merah, merica, rempah-rempah tertentu dan kecap manis. Selain itu, ditambahkan bahan-bahan pelengkap seperti telur, sayur-sayuran, makanan laut, atau daging. Makanan tersebut sering kali disantap sendiri atau disertai dengan hidangan lainnya. Nasi goreng adalah komponen populer dari masakan Asia Timur, Tenggara dan Selatan pada wilayah tertentu. Sebagai hidangan buatan rumah, nasi goreng biasanya dibuat dengan bahan-bahan yang tersisa dari hidangan lainnya, yang berujung pada ragam yang tak terbatas. Menjadi penopang ekonomi, hal yang sama juga terjadi pada mi goreng atau pyttipanna.\n
+            \n
+            Beberapa ragam populer dari nasi goreng memiliki daftar bahan spesifik mereka sendiri. Di Tiongkok Raya, ragam paling terkenal meliputi nasi goreng Yangzhou dan nasi goreng Hokkien. Chāhan Jepang sering dianggap berasal dari Jepang, yang ternyata berasal dari hidangan nasi goreng Tionghoa. Bokkeum-bap dari Korea umumnya tak dianggap demikian, meskipun terdapat ragam Tionghoa Korea dari bokkeum-bap. Di Asia Tenggara, nasi goreng Indonesia, Malaysia, dan Singapura yang berkonstruksi serupa dan khao phat Thai adalah hidangan populer. Di Barat, kebanyakan restoran untuk pelanggan vegetarian atau Muslim membuat ragam mereka sendiri dari nasi goreng, termasuk nasi goreng telur. Nasi goreng juga muncul pada menu-menu restoran Amerika yang menawarkan masakan dengan tanpa tradisi asli dari hidangan tersebut. Selain itu, terdapat ragam nasi goreng di negara-negara selatan Amerika Serikat. Beberapa ragam tersebut meliputi chaulafan asal Ekuador, arroz chaufa asal Peru, arroz frito asal Kuba, dan arroz mamposteao asal Puerto Rico.\n
+            \n
+            Nasi goreng adalah makanan jalanan populer di Asia. Di beberapa negara Asia, restoran-restoran kecil, gerai-gerai pinggir jalan dan pedagang keliling mengkhususkan diri dalam menyajikan nasi goreng. Di kota-kota Indonesia, pedagang umum nasi goreng biasa ditemukan berpindah-pindah dengan gerobak makanan mereka dan berhenti di jalanan sibuk atau kawasan tempat tinggal. Beberapa gerai makanan Asia Tenggara menawarkan nasi goreng dengan pilihan rasa dan hidangan sampingan.</item>
+        <item>Soto (juga dikenal dengan beberapa nama lokal seperti, sroto, sauto, tauto, atau coto) adalah makanan khas Indonesia seperti sop yang terbuat dari kaldu daging dan sayuran. Daging yang paling sering digunakan adalah daging sapi dan daging ayam, tetapi ada pula yang menggunakan daging babi, daging kuda atau daging kambing. Berbagai daerah di Indonesia memiliki soto khas daerahnya masing-masing dengan komposisi yang berbeda-beda, misalnya Soto Madura, Soto Kediri, Soto Pemalang, Soto Lamongan, Soto Jepara, Soto Bening Solo, Soto Semarang, Soto Kudus, Soto Betawi, Soto Padang, Soto Bandung, Sauto Tegal Tauto Pekalongan, Sroto Sokaraja, Sroto Kriyik, Sroto Bancar, Soto Banjar, Soto Medan, Coto Makassar, dan Coto Kuda Jeneponto. Soto juga diberi nama sesuai isinya, misalnya Soto ayam, Soto babat, atau Soto kambing. Ada pula soto yang dibuat dari daging kaki sapi yang disebut dengan soto sekengkel.\n
+            \n
+            Cara penyajian soto berbeda-beda sesuai dengan khas di setiap daerah. Soto biasa dihidangkan dengan nasi, lontong, ketupat, mie, atau bihun. Untuk menambah cita rasa dan kelezatan, biasanya disertai dengan berbagai macam pelengkap, misalnya kerupuk, perkedel, emping, sambal, dan sambal kacang. Ada juga yang menambahkan telur puyuh, sate kerang, jeruk limau, berbagai macam gorengan (tempe, tahu, bakwan), bawang goreng, seledri, tauco, dan koya.</item>
+        <item>Sate (Jawa: ꦱꦠꦺ, translit. sate, bahasa Inggris: satay) adalah makanan yang terbuat dari daging yang dipotong kecil-kecil dan ditusuk sedemikian rupa dengan tusukan lidi tulang daun kelapa atau bambu, kemudian dipanggang menggunakan bara arang kayu. Sate disajikan dengan berbagai macam bumbu yang bergantung pada variasi resep sate.[9] Daging yang dijadikan sate antara lain daging ayam, kambing, domba, sapi, babi, kelinci, kuda, dan lain-lain.\n
+            \n
+            Sate diketahui berasal dari Jawa, Indonesia, dan dapat ditemukan di mana saja di Indonesia dan telah dianggap sebagai salah satu masakan nasional Indonesia. Sate juga populer di negara-negara Asia Tenggara lainnya seperti Malaysia, Singapura, Filipina, dan Thailand. Sate juga populer di Belanda karena dipengaruhi masakan Indonesia yang dulu merupakan koloninya.\n
+            \n
+            Sate adalah hidangan yang sangat populer di Indonesia, dengan berbagai suku bangsa dan tradisi seni memasak (lihat Masakan Indonesia) telah menghasilkan berbagai jenis sate. Di Indonesia, sate dapat diperoleh dari pedagang sate keliling, pedagang kaki lima di warung tepi jalan, hingga di restoran kelas atas, serta kerap disajikan dalam pesta formal dan non-formal. Resep dan cara pembuatan sate beraneka ragam bergantung variasi dan resep masing-masing di tiap daerah. Hampir segala jenis daging dapat dibuat sate. Sebagai negara asal mula sate, Indonesia memiliki variasi resep sate yang banyak.\n
+            \n
+            Biasanya sate diberi saus, bisa berupa bumbu kecap, bumbu kacang, atau yang lainnya, biasanya disertai acar dari irisan bawang merah, mentimun, dan cabai rawit. Sate dimakan dengan nasi hangat atau bisa juga disajikan dengan lontong atau kupat ataupun hanya sate saja.
+            \n
+            Hidangan internasional yang mirip sate antara lain yakitori dari Jepang, shish kebab dari Turki, shashlik dari Kaukasia, chuanr dari Tiongkok, dan sosatie dari Afrika Selatan. Sate terdaftar sebagai peringkat ke-14 dalam World"'"s 50 most delicious foods (50 Hidangan Paling Lezat di Dunia) melalui jajak pendapat pembaca yang digelar oleh CNN Go pada 2011.</item>
+        <item>Gudeg (Jawa: ꦒꦸꦝꦼꦒ꧀, translit. Gudhěg) adalah hidangan khas Provinsi Daerah Istimewa Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat hidangan ini. Warna cokelat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg biasanya dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu, dan sambal goreng krecek.\n
+            \n
+            Gudeg sangat populer di Jawa, hidangan ini merupakan hidangan populer baik sebagai masakan rumahan maupun hidangan jalanan. Gudeg juga diproduksi secara industri sebagai makanan kaleng. Gudeg juga bisa ditemui di luar Indonesia, khususnya di negara tetangga seperti Malaysia dan Singapura.</item>
+        <item>Nasi padang adalah nasi putih yang disajikan dengan berbagai macam lauk-pauk khas Minangkabau, Indonesia. Kata padang merujuk pada ibu kota Provinsi Sumatera Barat, Padang. Nasi padang adalah sebuah hidangan yang disajikan secara lengkap secara prasmanan dengan daging, ikan, sayuran, dan makanan pedas yang dimakan dengan nasi putih. Nasi padang merupakan komoditas ekspor paling terkenal dan masyarakat Minangkabau mempunyai kontribusi yang besar untuk masakan Indonesia.\n
+            \n
+            Restoran nasi padang biasanya ditandai dengan bangunan bergaya Rumah Gadang dilengkapi dengan gaya etalasenya yang khas. Etalase nasi padang biasanya terdiri dari piring dan mangkuk yang ditumpuk sedemikian rupa, ditata dan diisi dengan berbagai hidangan. Restoran padang, terutama yang kecil-menengah, biasanya memakai nama-nama dalam bahasa Minang.\n
+            \n
+            Nasi padang yang disajikan di restoran padang mudah ditemukan di berbagai kota di Indonesia, seperti Sumatra, Jawa, Kalimantan, Sulawesi, Nusa Tenggara, dan Papua. Restoran nasi padang juga merambah ke negara-negara tetangga, seperti Malaysia, Singapura, dan Australia karena masyarakat Minangkabau memiliki kebiasaan merantau (imigrasi), memberikan kontribusi terhadap penyebaran perantau Minang melampaui batas kampung halaman mereka di Sumatera Barat. Berdasarkan CNN Travel, nasi padang terdaftar sebagai salah satu dari 40 makanan yang masyarakat Singapura tidak bisa hidup tanpanya.</item>
+        <item>Ayam Betutu adalah makanan tradisional khas Bali yang terbuat dari ayam atau bebek utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Ayam betutu merupakan jenis lauk pauk yang dibuat dari daging ayam yang telah dibersihkan, kemudian dibalurkan bumbu khas Bali yang dikenal dengan "base genep"[1] di seluruh permukaan daging ayam dan sebagian lagi dimasukkan ke dalam rongga abdomennya. Daging ayam yang telah dibumbui kemudian direbus atau langsung dibakar hingga menghasilkan aroma yang khas. Aroma yang muncul disebabkan karena adanya pemanasan yang menyebabkan air dan lemak daging ikut menguap. Semakin banyak uap yang dihasilkan, semakin kuat dan enak aromanya</item>
+        <item>Nasi uduk adalah hidangan yang dibuat dari nasi putih yang diaron dan dikukus dengan santan, serta dibumbui dengan pala, kayu manis, jahe, daun serai, dan merica. Hidangan Betawi yang populer ini adalah hidangan persilangan dua budaya Melayu dan Jawa.\n
+            \n
+            Nasi uduk biasa dihidangkan dengan emping goreng, tahu goreng, telur dadar atau telur goreng yang diiris, abon kering, tempe, bawang goreng, ayam goreng, timun, serta sambal kacang.</item>
+        <item>Gado-gado (Jawa: gadho-gadho) adalah makanan yang terdiri atas sayur-sayuran, kentang, tempe, tahu, telur rebus, dan lain-lain diberi bumbu sambal kacang dan sebagainya.</item>
+        <item>Rujak (Jawa: rujak) adalah hidangan salad buah dan sayuran tradisional yang umumnya dapat ditemukan di Indonesia, Malaysia, dan Singapura. Selain mengacu pada hidangan salad buah ini, istilah rujak juga berarti "menghancurkan", "memotong halus", atau "menyayat" dalam bahasa Jawa Kuno.\n
+            \n
+            Rujak bisa ditemukan di semua daerah di seluruh Indonesia, dan ada banyak variasi di dalam negeri. Varian rujak yang paling populer adalah rujak buah, yang merupakan campuran irisan buah dan sayuran yang disajikan dengan saus gula aren pedas. Tidak seperti salad buah pada umumnya, rujak sering digambarkan sebagai salad buah yang tajam dan pedas karena sausnya yang manis dan pedas, yang terbuat dari cabai, gula aren, dan kacang tanah. Rujak juga merupakan makanan jalanan yang populer di Bali.\n
+            \n
+            Rujak Indonesia biasanya dibuat dari bahan-bahan segar terutama buah-buahan dan sayuran. Rojak di Malaysia dan Singapura memiliki pengaruh India yang kuat.[10][11][12] Biasanya berisi tahu goreng, telur rebus, jícama parut dan cucur udang (udang goreng). Rujak biasanya merupakan hidangan vegetarian yang tidak mengandung produk hewani, kecuali balutan manis dan tajam yang mungkin mengandung terasi. Meskipun demikian, beberapa resep mungkin mengandung makanan laut atau daging. Rujak di Malaysia dan Singapura biasanya berisi sotong (sotong), sedangkan resep rujak tertentu di Indonesia mungkin berisi makanan laut atau daging.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/15/Chaufa_salvaje_Selva_17042010.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/70/Rendang_daging_sapi_asli_Padang.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/05/Soto_ayam.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/ad/Sate_Ponorogo.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/31/Nasi_Gudeg.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/93/Nasi_padang.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/f4/Ayam_Betutu.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a6/Nasi_uduk_netherlands.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a2/Gado_gado.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/48/Rujak_Buah_%28Indonesian_Fruit_Salad%29.JPG</item>
+    </string-array>
+
+    <string-array name="data_historical">
+        <item>Asal usul rendang ditelusuri berasal dari tanah Minangkabau, Sumatera Barat. Bagi masyarakat Minang, rendang sudah ada sejak dahulu dan telah menjadi masakan tradisi yang dihidangkan dalam berbagai acara adat dan hidangan keseharian. Sebagai masakan tradisi, rendang diduga telah lahir sejak orang Minang menggelar acara adat pertamanya. Kemudian seni memasak ini berkembang ke kawasan serantau berbudaya Melayu lainnya; mulai dari Mandailing, Riau, Jambi, hingga ke negeri seberang di Negeri Sembilan yang banyak dihuni perantau asal Minangkabau. Karena itulah rendang dikenal luas baik di Sumatera dan Semenanjung Malaya.\n
+            \n
+            Sejarawan Universitas Andalas, Prof. Dr. Gusti Asnan menduga, rendang telah menjadi masakan yang tersebar luas sejak orang Minang mulai merantau dan berlayar ke Malaka untuk berdagang pada awal abad ke-16. “Karena perjalanan melewati sungai dan memakan waktu lama, rendang mungkin menjadi pilihan tepat saat itu sebagai bekal.” Hal ini karena rendang kering sangat awet, tahan disimpan hingga berbulan lamanya, sehingga tepat dijadikan bekal kala merantau atau dalam perjalanan niaga.\n
+            \n
+            Rendang juga disebut dalam kesusastraan Melayu klasik seperti Hikayat Amir Hamzah yang membuktikan bahwa rendang sudah dikenal dalam seni masakan Melayu sejak 1550-an (pertengahan abad ke-16).\n
+            \n
+            10:4 ... Buzurjumhur Hakim pun pergi pula ke kedai orang merendang daging kambing, lalu ia berkata: "Beri apalah daging kambing\n
+            10:7 ... kambing rendang ini barang segumpal." Sahut orang merendang itu, "Berilah harganya dahulu." Maka kata Khoja Buzurjumhur,\n
+            \n
+            — Hikayat Amir Hamzah.\n
+            \n
+            Rendang kian dikenal dan tersebar luas jauh melampaui wilayah aslinya berkat budaya merantau Minangkabau. Orang Minang yang pergi merantau selain bekerja sebagai pegawai atau berniaga, banyak di antara mereka berwirausaha membuka Rumah Makan Padang di seantero Nusantara, bahkan meluas ke negara tetangga hingga Eropa dan Amerika. Rumah makan inilah yang memperkenalkan rendang serta hidangan Minangkabau lainnya secara meluas. Ketenaran rendang telah membuatnya rendang dinobatkan sebagai hidangan yang menduduki peringkat pertama daftar World"'"s 50 Most Delicious Foods (50 Hidangan Terlezat Dunia) versi CNN International tahun 2011.\n
+            \n
+            Selain pada acara adat, rendang juga menjadi pilihan menu saat mengolah daging kurban yang melimpah saat hari raya Idul Adha. Rendang juga menjadi makanan yang disajikan khusus untuk hari raya Idul Fitri. Rendang juga telah menjadi salah satu pilihan barang bantuan yang dikirimkan oleh Pemerintah Provinsi Sumatera Barat sebagai bantuan pangan bagi korban bencana di daerah lain. Hal ini pertama kali dilakukan pada tahun 2016 saat terjadi gempa bumi di Pidie Jaya, Aceh dan dilakukan pula pada gempa bumi Lombok 2018.</item>
+        <item>Nasi goreng adalah makanan yang berasal dari negeri China dan mendapat banyak modifikasi di Indonesia. Nasi goreng sudah ada sejak dulu bahkan sejak 4000 tahun sebelum Masehi sebagai makanan tradisional masyarakat Tionghoa atau China.\n
+            \n
+            Pada zaman dulu, masyarakat China tidak suka dengan nasi yang sudah dingin kemudian memasak lagi nasi tersebut menjadi nasi goreng dengan berbagai bumbu dan rempah. Ternyata nasi goreng sangat enak. Sejak saat itulah, nasi goreng menjadi makanan yang begitu digemari. Selain rasanya yang enak, nasi goreng juga digemari karena nasi goreng membuat masyarakat mengurangi pemborosan beras karena nasi goreng terbuat dari nasi dingin atau bahkan nasi sisa.</item>
+        <item>Menurut penelitian Ary Budiyanto dan Intan Kusuma Wardani, bertajuk Menyantap Soto Melacak Jao To Merekonstruksi (Ulang) Jejak Hibriditas Budaya Kuliner Cina dan Jawa, (2013) yang dipublikasikan Institute for Research and Community Service Petra Christian University, mengungkap bahwa soto asal-muasalnya berasal dari China.\n
+            \n
+            Dijelaskan bahwa istilah soto berasal dari makanan China yang dalam dialek Hokkian Cau do, Jao To, atau Chau Tu, yang berarti "'"rerumputan"'" atau "'"jeroan berempah"'". Kuliner ini pertama kali populer di wilayah Semarang, Jawa Tengah sekitar abad ke-19 yang dibawa oleh imigran dari China.\n
+            \n
+            Sementara itu, pakar sejarah Asia Tenggara, Denys Lombard juga mendukung tesis tersebut, lewat bukunya Nusa Jawa 2: Silang Budaya Jaringan Asia, (2005) dia menulis para imigran dari China sudah menguasai  berbagai produksi  ekonomi, salah satunya dengan membuka berbagai jenis restoran di pesisir Nusantara sejak abad ke-18.\n
+            \n
+            Bahkan, lanjut Lombard, banyak para imigran China yang menjajakan kuliner-kuliner yang mereka buat dalam bentuk yang lebih sederhana dan merakyat. Salah satunya dengan menggunakan pikulan dan berkeliling kampung.\n
+            \n
+            Awalnya, sesuai dengan sajian yang ada di China, soto yang dijajakan oleh mereka memang mengunakan jeroan  dari babi. Namun, karena mayoritas penduduk di Nusantara didominasi Muslim, maka mereka mengubah bahannya menjadi daging ayam, kerbau, atau sapi beserta jeroannya.\n
+            \n
+            "Dalam bentuk yang lebih sederhana dan merakyat, masakan China ditawarkan di jalan-jalan oleh para penjaja dengan pikulan. Masakan tertentu yang asalnya khas China, seperti soto ayam dan soto babat, [akhirnya] telah menjadi bagian masakan setempat," tulis Lombard dalam bukunya.</item>
+        <item>Sate telah menjadi makanan yang populer secara luas di berbagai belahan dunia, hal ini menjadikan orang tertarik untuk mengetahui asal mula hidangan populer ini yang tercatat dalam petikan di buku Encyclopaedia of Chinese and Oriental Cookery:\n
+            \n
+            "Meskipun Thailand dan Malaysia menganggap hidangan ini adalah milik mereka, tanah air sate yang sesungguhnya di Asia Tenggara adalah Jawa, Indonesia".\n
+            \n
+            Sate merupakan makanan yang berasal dari Ponorogo, Jawa Timur. kata Sate berasal dari bahasa Jawa dialek Ponoragan, yakni Sak Biting (dibaca Sak Beteng) yang berarti satu tusuk sedangkan di Madura pelafalannya menjadi Sati. Sate baru diketahui oleh Batoro Katong selaku bupati Ponorogo pertama pada abad ke 15 setelah penaklukan Ponorogo yang merupakan makanan warok, sehingga usia makanan sate bisa lebih tua.\n
+            \n
+            Hingga saat ini potongan daging sate Ponorogo dipotong memanjang dan dibuat dengan cara primitif yang ditusuk menggunakan lidi seperti awal mulanya, dibanding jenis sate lain dengan potongan daging kecil yang ditusuk bambu.\n
+            \n
+            Dari Jawa, sate menyebar ke seluruh Nusantara dan sebagai konsekuensinya, berbagai variasi hidangan telah dikembangkan. Pada akhir abad ke-19, sate telah melintasi Selat Malaka ke negara tetangga Malaysia, Singapura, dan Thailand. Pada abad ke-19, istilah tersebut bermigrasi, mungkin dengan imigran Melayu dari Hindia Belanda, ke Afrika Selatan, di mana ia dikenal sebagai sosatie. Orang Indo Belanda membawa hidangan ini, serta banyak makanan khas Indonesia lainnya, ke Belanda, mempengaruhi masakan Belanda.</item>
+        <item>Gudeg dibuat dari buah nangka yang tumbuh di banyak pulau di Kepulauan Melayu, khususnya di Jawa, dan merupakan tanaman pangan yang cukup penting. Sejumlah besar rempah-rempah dan bumbu tertentu digunakan dalam proses perebusan, rempah ini juga meningkatkan masa simpan gudeg.\n
+            \n
+            Di Jawa Tengah, ada legenda yang mengaitkan asal-usul gudeg dengan berdirinya Kesultanan Mataram pada akhir abad ke-16. Dikisahkan bahwa pada saat itu pejuang yang membuka hutan untuk pembangunan ibu kota negara baru di wilayah Yogyakarta saat ini tidak mendapat pasokan makanan yang memadai. Sementara itu hanya pohon nangka dan kelapa yang tumbuh subur di hutan tersebut. Saat masih muda buah nangka keras, dan tidak dapat dimakan mentah, mereka pun merebus buah nangka muda dalam santan dalam panci logam besar dan mengaduknya dengan papan kayu. Proses memasak seperti ini dalam bahasa jawa sehari-hari disebut hangudek (jw. Hangudek)—"mengaduk". Dari kata inilah menurut legenda, menjadi asal mula nama makanan yang ditemukan oleh prajurit Mataram tersebut, "Gudeg".</item>
+        <item>Asal usul Nasi Padang berasal dari zaman kolonial Belanda di Indonesia. Saat itu, banyak orang dari daerah termasuk Sumatera Barat migrasi ke kota besar seperti Jakarta, Bandung, dan Surabaya.\n
+            \n
+            Tujuan mereka bermigrasi yakni untuk mengubah nasib atau mencari pekerjaan. Awalnya Nasi Padang hanya memiliki lauk sederhana seperti ayam, ikan, telur, atau sayur-sayuran.\n
+            \n
+            Namun pada tahun 1940-an, seorang pengusaha bernama Siti Fatimah membuka kedai makan khas Padang di Jakarta. Mulai dari situ, Nasi Padang terkenal di Jakarta dan sekitarnya.\n
+            \n
+            Ada dua jenis metode melayani di sebuah restoran Padang, pesan (ordering) dan hidang (serving). Pesan adalah cara yang paling umum biasanya dilakukan oleh satu atau dua pelanggan pelanggan memeriksa jendela tampilan dan memilih hidangan yang mereka inginkan.\n
+            \n
+            Untuk metode hidang, pelaggan memesan langsung kepada pelayan di depan dekat etalase atau jendela display, dan hidangan segera disajikan. Hal ini biasanya umum dilakukan dalam skala kecil restoran Padang.\n
+            \n
+            Pada restoran Padang yang lebih besar, hidang meriah (melayani) biasanya dilakukan. Perjamuan hidangan paling cocok untuk makan dalam kelompok.\n
+            \n
+            Setelah pelanggan duduk, mereka tidak harus memesan. Pelayan dengan piring ditumpuk di atas tangan mereka, akan segera menyajikan hidangan di atas meja.\n
+            \n
+            Pelayan dengan cepat akan mengatur banyak piring kecil yang penuh dengan kaya rasa makanan. Seperti daging sapi rendang, kari ikan, direbus sayuran, cabai, terong, dan banyak lagi.\n
+            \n
+            Lusinan piring adalah jumlah yang normal, bahkan bisa mencapai 14 hidangan atau lebih. Nasi Padang akan langsung ada di meja secara prasmanan.\n
+            \n
+            Pelanggan hanya membayar apa yang mereka konsumsi dari prasmanan. Cara makan makanan di Minang adalah hal umum untuk makan dengan satu tangan.\n
+            \n
+            Mereka biasanya memberikan kobokan, mangkuk kecil yang berisi air dengan irisan jeruk nipis di dalamnya untuk memberikan aroma segar. Air ini digunakan untuk mencuci tangan sebelum dan setelah makan.</item>
+        <item>Ayam Betutu merupakan kuliner khas Bali yang berasal dari Gianyar.\n
+            \n
+            Sejarah Ayam Betutu pertama bermula pada tahun 1976, dari olahan tangan, Ni Wayan Tempeh atau Men Tempeh yang berasal dari wilayah Abiansi, kota Gianyar.\n
+            \n
+            Kemudian, bersama dengan suaminya yang bernama I Nyoman Suratna yang berasal dari Bangli, Ni Wayan Tempeh mendirikan warung Ayam Betutu.\n
+            \n
+            Nama Betutu sendiri berasal dari kata be dan tunu, Be artinya daging, dan tunu artinya bakar. Jadi secara harfiah adalah daging yang dibakar.\n
+            \n
+            Kuliner ini secara tradisional pada dasarnya merupakan ayam bakar yang dilabur dengan bumbu khas Bali yang bernama base genep lalu di panggang di api sekam.\n
+            \n
+            Namun, seiring kemajuan zaman pembuatan Ayam Betutu juga dilakukan memakai oven atau alat panggang/bakar modern lain.\n
+            \n
+            Sebenarnya, Ayam Betutu merupakan hidangan untuk upacara keagamaan dan upacara adat di Bali, seperti otonan, odalan, dan juga acara pernikahan.\n
+            \n
+            Sementara itu, pengolahan betutu sendiri khas dengan diberi lapisan pembungkus daun pinang, lalu diberi bara sekam.\n
+            \n
+            Kemudian dimasukan ke dalam tanah dari batu-batu yang sudah dipanaskan.\n
+            \n
+            Cara pengolahan ini merupkan warisan dari masa Majapahit yaitu masa abad ke-16, ketika pengaruh Islam masuk ke tanah Jawa.\n
+            \n
+            Setelah itu, diketahui banyak orang Majapahit yang merupakan pemeluk Hindu akhirnya pergi wilayah Bali.\n
+            \n
+            Berbagai pengaruh budaya yang ada di masa Majapahit akhirnya beralih ke Bali salah satunya kuliner. Beberapa kuliner khas Bali hasil pengaruh budaya Majapahit, termasuk juga betutu.\n
+            \n
+            Rasa awal masakan ini bercita rasa manis yang berasal dari Pulau Jawa, dikarenakan Islam pada saat itu sudah menyebar luas di Pulau Jawa. Akhirnya, dibawalah masakan tersebut ke Pulau Bali.\n
+            \n
+            Namun setelah dibawa ke daerah Pulau Bali, cita rasa masakkan Ayam Betutu tersebut berubah menjadi pedas yang dihasilkan dari bumbu khas pulau bali.\n
+            \n
+            Dan sampai sekarang masakan tersebut masih dipertahankan oleh masyarakat pulau bali dan menjadi masakan khas Pulau Bali.</item>
+        <item>Menurut buku "Makanan Khas Betawi" (2018) karya Lilly T. Erwin, nasi uduk adalah hidangan khas Betawi yang sangat populer dan mudah ditemukan di setiap sudut kota Jakarta. Meskipun kini hidangan ini dikaitkan dengan Jakarta, sejarawan kuliner berpendapat bahwa asal mula nasi uduk dapat ditelusuri berasal dari pengaruh dua budaya kuliner; yakni Melayu dan Jawa.\n
+            \n
+            Menurut sejarawan, terdapat hubungan dagang yang erat dan migrasi antara kota bandar pelabuhan Malaka dan Batavia, yakni pedagang dan pendatang dari Malaka ada yang datang dan bermukim di Batavia. Dalam sebuah diskusi bertajuk "Kuliner Betawiː Silang Budaya", menurut seorang ahli kuliner Betawi, Pudentia, orang Melayu ada yang pindah dari Malaka ke Batavia, yang mana mereka pun membawa masakan khas mereka yakni nasi lemak. Sementara itu, pendatang suku Jawa dari Mataram pun terbiasa memasak nasi dengan santan yang disebut sega gurih.[1] Apalagi setelah jatuhnya Portugis Malaka ke tangan Belanda pada tahun 1641, maka hubungan dagang bandar Malaka dan Batavia kian erat, karena keduanya dimiliki Belanda. Jejak migrasi suku Melayu ke Batavia dapat terlihat dari adanya nama bernuansa Melayu, yakni Kampung Melayu, dekat Jatinegara, di Jakarta Timur.\n
+            \n
+            Ada pula yang memercayai bahwa nasi uduk konon berasal dari buah pikir Sultan Agung dari Mataram, yang terinspirasi oleh pengalamannya memakan nasi kebuli. Hidangan ini mulai dibuat penduduk pulau Jawa dan dipopulerkan oleh Hindia Belanda setelahnya.\n
+            \n
+            Menurut Babad Tanah Jawi, sultan Mataram gemar makan "nasi arab", yang mungkin merujuk pada berbagai jenis Pilaf atau nasi bergaya Arab. Hidangan nasi dari Arab sering disebut nasi kebuli (populer di kalangan keturunan Arab di Indonesia) atau nasi biryani (hidangan Muslim India). Kedua hidangan tersebut paling umum dikenal di kalangan Muslim Jawa pada saat itu. Sultan Agung kemudian memutuskan untuk membuat "hidangan Arab" versi lokal, menggunakan bahan-bahan lokal. Ia melakukan ini antara lain untuk mengurangi pengeluaran negara (biaya untuk membeli bahan-bahan impor untuk membuat masakan nasi khas Arab sangat tinggi) dan untuk meningkatkan kebanggaan lokal.\n
+            \n
+            Tak lama kemudian, sega uduk menjadi bagian dari "syarat" dalam upacara "terima kasih" adat Jawa, yang sering disebut banca"'"an (bancakan) atau slametan. Nasi uduk dapat ditemukan dalam sega berkat, paket makanan (biasanya berisi nasi, sayuran, dan lauk pauk), atau disajikan sebagai tumpeng, untuk dibagikan setelah upacara atau acara selesai. Sega uduk juga menjadi hidangan wajib untuk disajikan saat Wiwitan, ritual persembahan menjelang panen yang biasanya diadakan di beberapa daerah Jawa.
+            \n
+            Nasi uduk diperkenalkan ke Batavia oleh para pendatang dari Jawa pada tahun 1628, dan kemudian menjadi hidangan populer di Batavia.[16] Orang Betawi yang menjual masakan ini akan sering menambahkan sentuhan Betawi dengan menambahkan tanduk kambing. Nasi uduk juga populer di kalangan diaspora Jawa di Suriname dan Belanda. Dalam bahasa Belanda nasi uduk disebut rijst vermengd met onrust van de liefde (disingkat jaloerse rijst).[butuh rujukan]</item>
+        <item>Adanya gado-gado bermula pada abad ke-17 (1628-1629), saat Kesultanan Mataram yang dipimpin Sultan Agung melakukan Penyerbuan di Batavia, kehabisan pasokan bahan makanan terutama beras. Selain itu, lumbung-lumbung beras di sekitar Batavia dibakar oleh VOC, sehingga membuat prajurit warok dari Ponorogo yang tergabung dalam pasukan perang membuat sambal bumbu pecel dari kacang tanah, kemudian disiramkan ke berbagai sayuran mentah yang ada di sekitar persawahan untuk bertahan hidup. Tindakan ini dalam Bahasa Jawa disebut Gadho yang berarti makan hanya lauk saja atau makan lauk tanpa nasi. Resep gado-gado kemudian diikuti oleh prajurit lainnya untuk memakan sayur seadanya yang disiram cairan bumbu pecel. Seiring perkembangan zaman, kini gado-gado ditambahkan lontong yang diiris kecil, telur, tahu dan kerupuk yang disajikan di warung kecil hingga restoran.</item>
+        <item>Rujak adalah salah satu hidangan tertua dan makanan Jawa kuno yang diidentifikasi secara historis paling awal yang disebut Rurujak dalam Prasasti Taji Jawa kuno (901 M). Orang Jawa di Indonesia telah memasukkan rujak ke dalam upacara pranatal mereka yang disebut Naloni Mitoni. Dalam budaya Jawa, rujak merupakan bagian penting dari upacara pralahir tradisional yang disebut Naloni Mitoni atau tujuh bulanan (harfiah: bulan ketujuh), dan dimaksudkan untuk mendoakan calon ibu agar persalinannya lancar, lancar dan sukses. Rujak buah khusus dibuat untuk acara ini, dan kemudian disajikan kepada calon ibu dan tamunya, terutama teman wanitanya. Resep rujak untuk upacara ini mirip dengan rujak buah khas Indonesia, hanya saja buahnya diparut kasar, bukan diiris tipis, dan jeruk bali sebagai bahan utamanya. Dipercaya bahwa jika rujak secara keseluruhan rasanya manis, bayi yang dikandungnya perempuan, dan jika pedas, bayi yang dikandungnya laki-laki.\n
+            \n
+            Masuknya cabai pedas dan kacang tanah mungkin telah terjadi pada awal era kolonial di abad ke-16, karena produk tersebut dibawa oleh pedagang Spanyol dan Portugis dari Amerika. Disarankan bahwa rujak mungkin terkait dengan gado-gado Indonesia, sedangkan rujak di Malaysia dan Singapura menunjukkan pengaruh India dengan kacang berwarna oranye dan saus ubi jalar sebagai saus untuk gorengan (dengan sayuran, kelapa, udang, atau bahan lainnya di dalamnya) , telur dan kentang\n
+            \n
+            Di Indonesia, rujak adalah makanan tradisional yang dijual di pasar tradisional, warung atau gerobak keliling oleh penduduk setempat; terutama orang Jawa, Sunda dan Bali. Di Malaysia, rujak dikaitkan dengan kedai Mamak, yang merupakan kedai makanan Muslim Malaysia Malaysia di mana rujak mamak adalah hidangan yang populer. Di Singapura, rujak mamak umumnya dijual oleh Muslim India, rujak buah (rujak buah) terutama oleh orang Cina, dan rujak Bandung (Sotong) terutama oleh orang Melayu. Sekarang, mereka dijual di sebagian besar pusat jajanan di kota.</item>
+    </string-array>
+
+</resources>
